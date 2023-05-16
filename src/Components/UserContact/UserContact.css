@@ -1,0 +1,14 @@
+.UserContact {
+        display: flex;
+        align-items: center;
+}
+
+.UserContact img {
+    border-radius: 100px;
+    width : 4rem ;
+}
+
+.UserContact span {
+    margin-left: 2rem;
+    font-weight: bold;
+}
